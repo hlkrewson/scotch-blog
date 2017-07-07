@@ -18,6 +18,7 @@ gem 'bootstrap-sass','~>3.3'
 gem 'ckeditor', '~> 4.1'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
+gem 'jquery-rails', '~> 4.3'
 
 # gem 'bcrypt', '~> 3.1.7'
 

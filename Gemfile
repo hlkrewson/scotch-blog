@@ -17,6 +17,7 @@ gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass','~>3.3'
 gem 'ckeditor', '~> 4.1'
 gem 'coffee-script-source', '1.8.0'
+gem 'devise'
 
 # gem 'bcrypt', '~> 3.1.7'
 

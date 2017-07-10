@@ -19,6 +19,8 @@ gem 'ckeditor', '~> 4.1'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
 gem 'jquery-rails', '~> 4.3'
+gem 'carrierwave'
+gem 'mini_magick'
 
 # gem 'bcrypt', '~> 3.1.7'
 
